@@ -29,3 +29,4 @@ To use the smaller model:
 ## Tips for good results
 - Photograph the bill flat, in good light, filling the frame
 - Digital PDF bills are the most accurate (text is read directly, no OCR)
+# grocery-bill-idp
